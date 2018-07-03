@@ -1,2 +1,2 @@
 # Approximate-Pi
-Pi-Approximation in different Programming Languages
+This project implements a approximation of pi in several different programming languages.
