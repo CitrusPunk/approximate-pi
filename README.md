@@ -16,6 +16,8 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [Kotlin](https://kotlinlang.org/docs/home.html)
 - [Lua](https://www.lua.org/docs.html)
 - [Python 3](https://docs.python.org/3/)
+- [Rust](https://www.rust-lang.org/)
+
 
 ## Roadmap
 - [Elixir](https://elixir-lang.org/docs.html)
@@ -25,5 +27,4 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [PHP](https://www.php.net/docs.php)
 - [Perl](https://www.perl.org/docs.html)
 - [PureScript](https://www.purescript.org/)
-- [Rust](https://www.rust-lang.org/)
 - [Ruby](https://ruby-doc.org/)
