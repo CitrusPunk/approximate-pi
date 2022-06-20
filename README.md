@@ -5,18 +5,18 @@ This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approxi
 Those implementations are neither comparable nor should they show benchmarks of any programming language the algorithm was implemented with.  
 
 ## Done
-- [C++](https://cplusplus.com/doc/)
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [D](https://dlang.org/documentation.html)
-- [Dart](https://dart.dev/guides)
-- [Go](https://go.dev/doc/)
-- [Java](https://docs.oracle.com/en/java/)
-- [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [Julia](https://docs.julialang.org/en/v1/)
-- [Kotlin](https://kotlinlang.org/docs/home.html)
-- [Lua](https://www.lua.org/docs.html)
-- [Python 3](https://docs.python.org/3/)
-- [Rust](https://www.rust-lang.org/)
+01. [C++](https://cplusplus.com/doc/)
+02. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+03. [D](https://dlang.org/documentation.html)
+04. [Dart](https://dart.dev/guides)
+05. [Go](https://go.dev/doc/)
+06. [Java](https://docs.oracle.com/en/java/)
+07. [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
+08. [Julia](https://docs.julialang.org/en/v1/)
+09. [Kotlin](https://kotlinlang.org/docs/home.html)
+10. [Lua](https://www.lua.org/docs.html)
+11. [Python 3](https://docs.python.org/3/)
+12. [Rust](https://www.rust-lang.org/)
 
 
 ## Roadmap
