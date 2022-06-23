@@ -2,4 +2,6 @@
 *.out
 *.obj
 
+/Rust/target
+
 /F#
