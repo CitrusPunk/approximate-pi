@@ -15,10 +15,11 @@ Those implementations are neither comparable nor should they show benchmarks of 
 08. [Julia](https://docs.julialang.org/en/v1/)
 09. [Kotlin](https://kotlinlang.org/docs/home.html)
 10. [Lua](https://www.lua.org/docs.html)
-11. [PHP](https://www.php.net/docs.php)
-12. [Python 3](https://docs.python.org/3/)
-13. [Ruby](https://ruby-doc.org/)
-14. [Rust](https://www.rust-lang.org/)
+11. [Perl](https://www.perl.org/docs.html)
+12. [PHP](https://www.php.net/docs.php)
+13. [Python 3](https://docs.python.org/3/)
+14. [Ruby](https://ruby-doc.org/)
+15. [Rust](https://www.rust-lang.org/)
 
 
 ## Roadmap
@@ -26,5 +27,4 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [Elm](https://guide.elm-lang.org/)
 - [F#](https://fsharp.org/docs/)
 - [Groovy](https://groovy-lang.org/single-page-documentation.html)
-- [Perl](https://www.perl.org/docs.html)
 - [PureScript](https://www.purescript.org/)
