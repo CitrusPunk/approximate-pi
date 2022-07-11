@@ -22,9 +22,18 @@ Those implementations are neither comparable nor should they show benchmarks of 
 15. [Rust](https://www.rust-lang.org/)
 
 
-## Roadmap
+## Future Candidates
 - [Elixir](https://elixir-lang.org/docs.html)
 - [Elm](https://guide.elm-lang.org/)
+- [Erlang](https://www.erlang.org/)
 - [F#](https://fsharp.org/docs/)
 - [Groovy](https://groovy-lang.org/single-page-documentation.html)
+- [Haskell](https://www.haskell.org/)
+- [Neko](https://nekovm.org/)
+- [Octave](https://octave.org/)
 - [PureScript](https://www.purescript.org/)
+- [R](https://www.r-project.org/)
+- [Scala](https://scala-lang.org/)
+- [Swift](https://www.swift.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
