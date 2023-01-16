@@ -12,11 +12,9 @@ inCircle <- 0.0
 radius <- 1.0
 
 # for-loop that generates random points and checks if they are in circle
-for (iteration in 1:amountOfIterations) 
-{
+for (iteration in 1:amountOfIterations) {
     distance <- sqrt(xs[iteration]**2 + ys[iteration]**2)
-if(distance < radius)
-    {
+    if(distance < radius){
         inCircle <- inCircle + 1
     }     
 }
