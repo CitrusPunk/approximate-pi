@@ -1,8 +1,8 @@
 # NEED:
 # A browser and internet connection
 # USAGE:
-# Go to: 
-# Copy/Paste Code:
+# Go to https://www.online-ide.com/online_r_compiler
+# Copy code into the editor and hit run
 
 # needed variables to approximate pi
 amountOfIterations <- 10000000
