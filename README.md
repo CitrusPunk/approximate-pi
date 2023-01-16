@@ -18,8 +18,9 @@ Those implementations are neither comparable nor should they show benchmarks of 
 11. [Perl](https://www.perl.org/docs.html)
 12. [PHP](https://www.php.net/docs.php)
 13. [Python 3](https://docs.python.org/3/)
-14. [Ruby](https://ruby-doc.org/)
-15. [Rust](https://www.rust-lang.org/)
+14. [R](https://www.r-project.org/)
+15. [Ruby](https://ruby-doc.org/)
+16. [Rust](https://www.rust-lang.org/)
 
 
 ## Future Candidates
@@ -32,7 +33,6 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [Neko](https://nekovm.org/)
 - [Octave](https://octave.org/)
 - [PureScript](https://www.purescript.org/)
-- [R](https://www.r-project.org/)
 - [Scala](https://scala-lang.org/)
 - [Swift](https://www.swift.org/)
 - [TypeScript](https://www.typescriptlang.org/)
