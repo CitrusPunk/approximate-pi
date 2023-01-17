@@ -21,6 +21,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 14. [R](https://www.r-project.org/)
 15. [Ruby](https://ruby-doc.org/)
 16. [Rust](https://www.rust-lang.org/)
+17. [TypeScript](https://www.typescriptlang.org/)
 
 
 ## Future Candidates
@@ -35,5 +36,4 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [PureScript](https://www.purescript.org/)
 - [Scala](https://scala-lang.org/)
 - [Swift](https://www.swift.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
