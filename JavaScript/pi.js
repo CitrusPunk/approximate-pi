@@ -24,7 +24,7 @@ function approximatePi(){
         inCircle++;
   }
   // pi approximation
-  var pi = 4 * (inCircle / total)
+  var pi = 4 * (inCircle / total);
 
   // write output
   document.getElementById('approximation').innerHTML = "PI-Approximation: " + pi;
