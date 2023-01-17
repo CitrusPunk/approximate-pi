@@ -1,3 +1,9 @@
+// NEED:
+// A browser
+// USAGE:
+// Open online scala editor: https://scastie.scala-lang.org/
+// Copy/Paste code and run it
+
 @main def run () =
 // constants for setup
   val iterations = 1000000;
