@@ -1,6 +1,8 @@
 *.exe
 *.out
 *.obj
+*.jar
+*.class
 
 /Rust/target
 

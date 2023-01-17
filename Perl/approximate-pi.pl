@@ -1,7 +1,7 @@
 # NEED:
 # Perl compiler installed
 # USAGE:
-# open terminal in this directory and type "perl ./approximatePi.pl" to compile
+# open terminal in this directory and type "perl ./approximate-pi.pl" to compile
 
 #!/usr/bin/perl -w
 use strict;
