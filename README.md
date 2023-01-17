@@ -36,7 +36,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [F#](https://fsharp.org/docs/)
 - [Fortran](https://wg5-fortran.org/)
 - [Groovy](https://groovy-lang.org/single-page-documentation.html)
-- [Hack](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
+- [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
 - [Hack](https://hacklang.org/)
 - [Haskell](https://www.haskell.org/)
 - [Icon](https://www2.cs.arizona.edu/icon/)
