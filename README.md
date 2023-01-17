@@ -23,7 +23,8 @@ Those implementations are neither comparable nor should they show benchmarks of 
 14. [R](https://www.r-project.org/)
 15. [Ruby](https://ruby-doc.org/)
 16. [Rust](https://www.rust-lang.org/)
-17. [TypeScript](https://www.typescriptlang.org/)
+17. [Scala](https://scala-lang.org/)
+18. [TypeScript](https://www.typescriptlang.org/)
 
 ## Future Candidates
 
@@ -47,7 +48,6 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [Nim](https://nim-lang.org/)
 - [Octave](https://octave.org/)
 - [PureScript](https://www.purescript.org/)
-- [Scala](https://scala-lang.org/)
 - [Self](https://selflanguage.org/)
 - [Swift](https://www.swift.org/)
 - [TeX](https://tug.org/)
