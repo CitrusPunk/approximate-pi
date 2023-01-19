@@ -25,6 +25,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 16. [Rust](https://www.rust-lang.org/)
 17. [Scala](https://scala-lang.org/)
 18. [TypeScript](https://www.typescriptlang.org/)
+19. [Zig](https://ziglang.org/)
 
 ## Future Candidates
 
@@ -59,4 +60,3 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [Whiley](https://whiley.org/)
 - [Wolfram](https://www.wolfram.com/language/)
 - [X10](http://x10-lang.org/documentation/getting-started.html)
-- [Zig](https://ziglang.org/)
