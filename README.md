@@ -1,7 +1,7 @@
 # Approximate-Pi
 
 This project implements a approximation of pi in several different programming languages.  
-This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle.
+This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the programming language (11/26).
 
 Those implementations are neither comparable nor should they show benchmarks of any programming language the algorithm was implemented with.
 
