@@ -6,6 +6,9 @@
 import ballerina/io;
 import ballerina/random;
 
+
+//TODO: add input iteration possibility for users and rerun loop
+
 public function main() {
     int iterations = 100000;
     int inCircle = 0;
