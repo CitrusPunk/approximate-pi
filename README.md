@@ -2,32 +2,33 @@
 # Approximate-Pi
 
 This project implements a approximation of pi in several different programming languages.  
-This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the programming language **(13/26)**.
+This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the programming language **(14/26)**.
 
 Those implementations are neither comparable nor should they show benchmarks of any programming language the algorithm was implemented with.
 
 ## Done
 
-1.  [C++](https://cplusplus.com/doc/)
-2.  [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-3.  [D](https://dlang.org/documentation.html)
-4.  [Dart](https://dart.dev/guides)
-5.  [Go](https://go.dev/doc/)
-6.  [Java](https://docs.oracle.com/en/java/)
-7.  [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
-8.  [Julia](https://docs.julialang.org/en/v1/)
-9.  [Kotlin](https://kotlinlang.org/docs/home.html)
-10. [Lua](https://www.lua.org/docs.html)
-11. [Perl](https://www.perl.org/docs.html)
-12. [PHP](https://www.php.net/docs.php)
-13. [Python](https://docs.python.org/3/)
-14. [R](https://www.r-project.org/)
-15. [Ruby](https://ruby-doc.org/)
-16. [Rust](https://www.rust-lang.org/)
-17. [Scala](https://scala-lang.org/)
-18. [TypeScript](https://www.typescriptlang.org/)
-19. [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
-20. [Zig](https://ziglang.org/)
+1. [Ballerina](https://ballerina.io/)
+2.  [C++](https://cplusplus.com/doc/)
+3.  [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+4.  [D](https://dlang.org/documentation.html)
+5.  [Dart](https://dart.dev/guides)
+6.  [Go](https://go.dev/doc/)
+7.  [Java](https://docs.oracle.com/en/java/)
+8.  [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
+9.  [Julia](https://docs.julialang.org/en/v1/)
+10.  [Kotlin](https://kotlinlang.org/docs/home.html)
+11. [Lua](https://www.lua.org/docs.html)
+12. [Perl](https://www.perl.org/docs.html)
+13. [PHP](https://www.php.net/docs.php)
+14. [Python](https://docs.python.org/3/)
+15. [R](https://www.r-project.org/)
+16. [Ruby](https://ruby-doc.org/)
+17. [Rust](https://www.rust-lang.org/)
+18. [Scala](https://scala-lang.org/)
+19. [TypeScript](https://www.typescriptlang.org/)
+20. [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
+21. [Zig](https://ziglang.org/)
 
 ## Future Candidates
 
