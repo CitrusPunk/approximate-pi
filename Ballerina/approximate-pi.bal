@@ -6,6 +6,8 @@
 import ballerina/io;
 import ballerina/random;
 
+// TODO: Add iteration input possibility and conversion from int to float
+
 public function main() {
     float iterations = 10000.0;
     float inCircle = 0.0;
