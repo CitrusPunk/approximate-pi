@@ -6,14 +6,12 @@
 import ballerina/io;
 import ballerina/random;
 
-// TODO: Add iteration input possibility and conversion from int to float
-
 public function main() {
-    float iterations = 10000.0;
-    float inCircle = 0.0;
+    int iterations = 100000;
+    int inCircle = 0;
     float radius = 1.0;
 
-    float i = 0.0;
+    int i = 0;
     while i < iterations {
         float x = random:createDecimal();
         float y = random:createDecimal();
@@ -22,9 +20,9 @@ public function main() {
             inCircle = inCircle + 1;
         }
 
-        i = i + 1.0;
+        i = i + 1;
     }
 
     // pi approximation
-    io:println(4.0 * (inCircle / iterations));
+    io:println(4.0 * (<float>inCircle / <float>iterations));
 }
