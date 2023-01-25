@@ -40,6 +40,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 - [Elm](https://guide.elm-lang.org/)
 - [Erlang](https://www.erlang.org/)
 - [F#](https://fsharp.org/docs/)
+- [FAUST](https://faustide.grame.fr/)
 - [Fortran](https://wg5-fortran.org/)
 - [Groovy](https://groovy-lang.org/single-page-documentation.html)
 - [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
