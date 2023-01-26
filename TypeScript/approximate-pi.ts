@@ -1,7 +1,7 @@
 // NEED:
 // A Browser
 // USAGE:
-// open https://www.typescriptlang.org/play and copy/paste this code
+// open https://www.typescriptlang.org/play and copy/paste this code and execute it
 
 type Point = {
     x: number;
