@@ -1,3 +1,10 @@
+# NEED:
+# Icon installed e.g. from https://www2.cs.arizona.edu/icon/
+# USAGE:
+# open terminal in this directory and first type "icont ./approximate-pi.icn" to compile
+# second run the program via "approximate-pi"
+# A good documentation of the language can be found here https://www.tools-of-computing.com/tc/CS/iconprog.pdf
+
 global inCircle
 
 procedure main()
