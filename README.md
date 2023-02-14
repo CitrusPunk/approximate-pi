@@ -1,7 +1,7 @@
 # Approximate-Pi
 
 This project implements a approximation of pi in several different programming languages.  
-This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(17/26)**.
+This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(18/26)**.
 
 ## Disclaimer
 
@@ -16,23 +16,24 @@ Those implementations are neither comparable nor should they show benchmarks of 
 5. [Dart](https://dart.dev/guides)
 6. [Fortran](https://wg5-fortran.org/)
 7. [Go](https://go.dev/doc/)
-8. [Icon](https://www2.cs.arizona.edu/icon/)
-9. [Java](https://docs.oracle.com/en/java/)
-10. [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
-11. [Julia](https://docs.julialang.org/en/v1/)
-12. [Kotlin](https://kotlinlang.org/docs/home.html)
-13. [LOLCODE](https://esolangs.org/wiki/LOLCODE)
-14. [Lua](https://www.lua.org/docs.html)
-15. [Perl](https://www.perl.org/docs.html)
-16. [PHP](https://www.php.net/docs.php)
-17. [Python](https://docs.python.org/3/)
-18. [R](https://www.r-project.org/)
-19. [Ruby](https://ruby-doc.org/)
-20. [Rust](https://www.rust-lang.org/)
-21. [Scala](https://scala-lang.org/)
-22. [TypeScript](https://www.typescriptlang.org/)
-23. [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
-24. [Zig](https://ziglang.org/)
+7. [Haxe](https://haxe.org/)
+9. [Icon](https://www2.cs.arizona.edu/icon/)
+10. [Java](https://docs.oracle.com/en/java/)
+11. [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
+12. [Julia](https://docs.julialang.org/en/v1/)
+13. [Kotlin](https://kotlinlang.org/docs/home.html)
+14. [LOLCODE](https://esolangs.org/wiki/LOLCODE)
+15. [Lua](https://www.lua.org/docs.html)
+16. [Perl](https://www.perl.org/docs.html)
+17. [PHP](https://www.php.net/docs.php)
+18. [Python](https://docs.python.org/3/)
+19. [R](https://www.r-project.org/)
+20. [Ruby](https://ruby-doc.org/)
+21. [Rust](https://www.rust-lang.org/)
+22. [Scala](https://scala-lang.org/)
+23. [TypeScript](https://www.typescriptlang.org/)
+24. [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
+25. [Zig](https://ziglang.org/)
 
 ## Future Candidates
 
