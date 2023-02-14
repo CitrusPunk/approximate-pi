@@ -1,0 +1,5 @@
+-lib hxnodejs
+-lib random
+-cp ./
+-main ApproximatePi
+-js ./approximate-pi.js
