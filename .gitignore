@@ -3,6 +3,7 @@
 *.obj
 *.jar
 *.class
+*.icx
 
 /Rust/target
 
