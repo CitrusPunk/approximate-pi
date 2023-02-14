@@ -3,13 +3,23 @@
 This project implements a approximation of pi in several different programming languages.  
 This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(18/26)**.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CitrusPunk&theme=radical)
+![Trophies](https://img.shields.io/coverallsCoverage/github/CitrusPunk/approximate-pi)
 
 ## Disclaimer
 
 Those implementations are neither comparable nor should they show benchmarks of any programming language the algorithm was implemented with. I try to keep the implementation as simple as possible. The files might not satisfy best practices of the used programming language - improvements suggestions are welcome though.
 
 ## Done
+
+|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|  	|
+|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+| _A_ 	|  	|  	|  	| **H** 	| [Haxe](https://haxe.org/) 	|  	|  	|  	| O 	|  	|  	|  	| **V** 	| [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) 	|  	|
+| **B** 	| [Ballerina](https://ballerina.io/) 	|  	|  	| **I** 	| [Icon](https://www2.cs.arizona.edu/icon/) 	|  	|  	|  	| **P** 	| [Perl](https://www.perl.org/docs.html) 	| [PHP](https://www.php.net/docs.php) 	| [Python](https://docs.python.org/3/) 	| _W_ 	|  	|  	|
+| **C** 	| [C++](https://cplusplus.com/doc/) 	| [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 	|  	| **J** 	| [Java](https://docs.oracle.com/en/java/) 	| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) 	| [Julia](https://docs.julialang.org/en/v1/) 	|  	| Q 	|  	|  	|  	| _X_ 	|  	|  	|
+| **D** 	| [D](https://dlang.org/documentation.html) 	| [Dart](https://dart.dev/guides) 	| 	 	| **K** 	| [Kotlin](https://kotlinlang.org/docs/home.html) 	|  	|  	|  	| **R** 	| [R](https://www.r-project.org/) 	| [Ruby](https://ruby-doc.org/) 	| [Rust](https://www.rust-lang.org/) 	| _Y_ 	|  	|  	|
+| _E_ 	|  	|  	|  	| **L** 	| [LOLCODE](https://esolangs.org/wiki/LOLCODE) 	| [Lua](https://www.lua.org/docs.html) 	|  	|  	| **S** 	| [Scala](https://scala-lang.org/) 	|  	|  	| **Z** 	| [Zig](https://ziglang.org/) 	|  	|
+| **F** 	| [Fortran](https://wg5-fortran.org/) 	|  	|  	| _M_ 	|  	|  	|  	|  	| **T** 	| [TypeScript](https://www.typescriptlang.org/) 	|  	|  	|  	|  	|  	|
+| **G** 	| [Go](https://go.dev/doc/) 	|  	|  	| _N_ 	|  	|  	|  	|  	| U 	|  	|  	|  	|  	|  	|  	|
 
 1. [Ballerina](https://ballerina.io/)
 2. [C++](https://cplusplus.com/doc/)
