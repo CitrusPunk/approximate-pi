@@ -27,32 +27,18 @@ Those implementations are neither comparable nor should they show benchmarks of 
 
 ## Future Candidates
 
-- [Ada](https://www.adaic.org/)
-- [Bash](https://git.savannah.gnu.org/cgit/bash.git)
-- [Batch](https://en.wikipedia.org/wiki/Batch_file)
-- [Elixir](https://elixir-lang.org/docs.html)
-- [Elm](https://guide.elm-lang.org/)
-- [Erlang](https://www.erlang.org/)
-- [F#](https://fsharp.org/docs/)
-- [FAUST](https://faustide.grame.fr/)
-- [Groovy](https://groovy-lang.org/single-page-documentation.html)
-- [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
-- [Hack](https://hacklang.org/)
-- [Haskell](https://www.haskell.org/)
-- [Io](https://iolanguage.org/)
-- [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>)
-- [Matlab](https://de.mathworks.com/products/matlab.html)
-- [Neko](https://nekovm.org/)
-- [Nim](https://nim-lang.org/)
-- [Octave](https://octave.org/)
-- [PureScript](https://www.purescript.org/)
-- [Self](https://selflanguage.org/)
-- [Swift](https://www.swift.org/)
-- [TeX](https://tug.org/)
-- [Umple](https://cruise.umple.org/umple/)
-- [Unicon](https://unicon.sourceforge.io/)
-- [Vala](https://vala.dev/)
-- [Vim Script](<https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script>)
-- [Whiley](https://whiley.org/)
-- [Wolfram](https://www.wolfram.com/language/)
-- [X10](http://x10-lang.org/documentation/getting-started.html)
+|  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+|  | **A** | [Ada](https://www.adaic.org/) |  |  | **N** | [Neko](https://nekovm.org/) | [Nim](https://nim-lang.org/) |  |
+|  | **B** | [Bash](https://git.savannah.gnu.org/cgit/bash.git) | [Batch](https://en.wikipedia.org/wiki/Batch_file) |  | **O** | [Octave](https://octave.org/) |  |  |
+|  | **C** |  |  |  | **P** | [PureScript](https://www.purescript.org/) |  |  |
+|  | **D** |  |  |  | **Q** |  |  |  |
+|  | **E** | [Elixir](https://elixir-lang.org/docs.html) | [Elm](https://guide.elm-lang.org/) | [Erlang](https://www.erlang.org/) | **R** |  |  |  |
+|  | **F** | [F#](https://fsharp.org/docs/) | [FAUST](https://faustide.grame.fr/) |  | **S** | [Self](https://selflanguage.org/) | [Swift](https://www.swift.org/) |  |
+|  | **G** | [Groovy](https://groovy-lang.org/single-page-documentation.html) |  |  | **T** | [TeX](https://tug.org/) |  |  |
+|  | **H** | [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language) | [Hack](https://hacklang.org/) | [Haskell](https://www.haskell.org/) | **U** | [Umple](https://cruise.umple.org/umple/) | [Unicon](https://unicon.sourceforge.io/) |  |
+|  | **I** | [Io](https://iolanguage.org/) |  |  | **V** | [Vala](https://vala.dev/) | [Vim Script](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script) |  |
+|  | **J** |  |  |  | **W** | [Whiley](https://whiley.org/) | [Wolfram](https://www.wolfram.com/language/) |  |
+|  | **K** |  |  |  | **X** | [X10](http://x10-lang.org/documentation/getting-started.html) |  |  |
+|  | **L** | [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>) |  |  | **Y** |  |  |  |
+|  | **M** | [Matlab](https://de.mathworks.com/products/matlab.html) |  |  | **Z** |  |  |  |
