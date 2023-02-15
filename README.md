@@ -9,31 +9,21 @@ Those implementations are neither comparable nor should they show benchmarks of 
 
 ## Done
 
-1. [Ballerina](https://ballerina.io/)
-2. [C++](https://cplusplus.com/doc/)
-3. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-4. [D](https://dlang.org/documentation.html)
-5. [Dart](https://dart.dev/guides)
-6. [Fortran](https://wg5-fortran.org/)
-7. [Go](https://go.dev/doc/)
-7. [Haxe](https://haxe.org/)
-9. [Icon](https://www2.cs.arizona.edu/icon/)
-10. [Java](https://docs.oracle.com/en/java/)
-11. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-12. [Julia](https://docs.julialang.org/en/v1/)
-13. [Kotlin](https://kotlinlang.org/docs/home.html)
-14. [LOLCODE](https://esolangs.org/wiki/LOLCODE)
-15. [Lua](https://www.lua.org/docs.html)
-16. [Perl](https://www.perl.org/docs.html)
-17. [PHP](https://www.php.net/docs.php)
-18. [Python](https://docs.python.org/3/)
-19. [R](https://www.r-project.org/)
-20. [Ruby](https://ruby-doc.org/)
-21. [Rust](https://www.rust-lang.org/)
-22. [Scala](https://scala-lang.org/)
-23. [TypeScript](https://www.typescriptlang.org/)
-24. [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/)
-25. [Zig](https://ziglang.org/)
+|  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **A** |  |  |  | **N** |  |  |  |
+| **B** | [Ballerina](https://ballerina.io/) |  |  | **O** |  |  |  |
+| **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |  | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
+| **D** | [D](https://dlang.org/documentation.html) | [Dart](https://dart.dev/guides) |  | **Q** |  |  |  |
+| **E** |  |  |  | **R** | [R](https://www.r-project.org/) | [Ruby](https://www.ruby-lang.org/) | [Rust](https://www.rust-lang.org/) |
+| **F** | [Fortran](https://wg5-fortran.org/) |  |  | **S** | [Scala](https://scala-lang.org/) |  |  |
+| **G** | [Go](https://go.dev/doc/) |  |  | **T** | [TypeScript](https://www.typescriptlang.org/) |  |  |
+| **H** | [Haxe](https://haxe.org/) |  |  | **U** |  |  |  |
+| **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) |  |  |
+| **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** |  |  |  |
+| **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
+| **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) |  | **Y** |  |  |  |
+| **M** |  |  |  | **Z** | [Zig](https://ziglang.org/) |  |  |
 
 ## Future Candidates
 
