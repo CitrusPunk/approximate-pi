@@ -33,12 +33,12 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **B** | [Bash](https://git.savannah.gnu.org/cgit/bash.git) | [Batch](https://en.wikipedia.org/wiki/Batch_file) |  | **O** | [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) | [Orc](https://orc.csres.utexas.edu/) | [OCaml](https://ocaml.org/) |
 | **C** |  |  |  | **P** | [PureScript](https://www.purescript.org/) |  |  |
 | **D** |  |  |  | **Q** |  |  |  |
-| **E** | [Elixir](https://elixir-lang.org/docs.html) | [Elm](https://guide.elm-lang.org/) | [Erlang](https://www.erlang.org/) | **R** |  |  |  |
+| **E** | [Elixir](https://elixir-lang.org/docs.html) | [Elm](https://guide.elm-lang.org/) | [Eiffel](https://www.eiffel.org/) | **R** |  |  |  |
 | **F** | [F#](https://fsharp.org/docs/) | [FAUST](https://faustide.grame.fr/) |  | **S** | [Self](https://selflanguage.org/) | [Swift](https://www.swift.org/) |  |
 | **G** | [Groovy](https://groovy-lang.org/single-page-documentation.html) |  |  | **T** | [TeX](https://tug.org/) |  |  |
 | **H** | [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language) | [Hack](https://hacklang.org/) | [Haskell](https://www.haskell.org/) | **U** | [Umple](https://cruise.umple.org/umple/) | [Unicon](https://unicon.sourceforge.io/) |  |
 | **I** | [Io](https://iolanguage.org/) |  |  | **V** | [Vala](https://vala.dev/) | [Vim Script](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script) |  |
-| **J** |  |  |  | **W** | [Whiley](https://whiley.org/) | [Wolfram](https://www.wolfram.com/language/) |  |
-| **K** |  |  |  | **X** | [X10](http://x10-lang.org/documentation/getting-started.html) |  |  |
+| **J** |  |  |  | **W** | [Whiley](https://whiley.org/) | [Wolfram](https://www.wolfram.com/language/) | [Wyvern](https://wyvernlang.github.io/) |
+| **K** |  |  |  | **X** | [X10](http://x10-lang.org/documentation/getting-started.html) | [X#](https://www.xsharp.eu/) |  |
 | **L** | [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>) |  |  | **Y** |  |  |  |
 | **M** | [Matlab](https://de.mathworks.com/products/matlab.html) |  |  | **Z** |  |  |  |
