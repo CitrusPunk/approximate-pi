@@ -9,6 +9,8 @@ val radius = 1.0
 
 def approximatePi(iterations) =
  def distance(x,y) = sqrt(x*x + y*y)
- signals(iterations) >> distance(URandom()*radius ,URandom() * radius )
+ for(0,iterations) >> distance(URandom()*radius, URandom()*radius )
+   
+def calculatePi(inCircle) = 4.0 * (inCircle/iterations)
 
 approximatePi(iterations)
