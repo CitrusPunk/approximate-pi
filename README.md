@@ -4,6 +4,8 @@ This project implements a approximation of Pi in several different programming l
 This is done with the [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method) which roughly places random points on a plane and checks if they are inside or outside of that circle.  
 ![Random points on circle](https://upload.wikimedia.org/wikipedia/commons/8/84/Pi_30K.gif)  
 
+The implementations are located in flavors/[LANGUAGE_NAME]. The source code of each language contains the requirements and instructions on how to execute the implementation.
+
 
 An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(17/26)**.
 
