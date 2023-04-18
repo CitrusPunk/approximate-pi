@@ -20,7 +20,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |  | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
 | **D** | [D](https://dlang.org/documentation.html) | [Dart](https://dart.dev/guides) |  | **Q** |  |  |  |
 | **E** |  |  |  | **R** | [R](https://www.r-project.org/) | [Ruby](https://www.ruby-lang.org/) | [Rust](https://www.rust-lang.org/) |
-| **F** | [Fortran](https://wg5-fortran.org/) |  |  | **S** | [Scala](https://scala-lang.org/) |  |  |
+| **F** | [Fortran](https://wg5-fortran.org/) |  |  | **S** | [Scala](https://scala-lang.org/) | [Scratch](https://scratch.mit.edu/) |  |
 | **G** | [Go](https://go.dev/doc/) |  |  | **T** | [TypeScript](https://www.typescriptlang.org/) |  |  |
 | **H** | [Haxe](https://haxe.org/) |  |  | **U** |  |  |  |
 | **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) |  |  |
