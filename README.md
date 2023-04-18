@@ -1,7 +1,11 @@
 # Approximate-Pi
 
-This project implements a approximation of pi in several different programming languages.  
-This is done via [Summing a Circle's Area](https://en.wikipedia.org/wiki/Approximations_of_%CF%80#Summing_a_circle's_area) which roughly places random points on a plane and checks if they are inside or outside of that circle. An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(16/26)**.
+This project implements a approximation of Pi in several different programming languages.  
+This is done with the [Monte Carloo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method) which roughly places random points on a plane and checks if they are inside or outside of that circle.
+![Random points on circle](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+
+
+An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(16/26)**.
 
 ## Disclaimer
 
