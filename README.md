@@ -2,7 +2,7 @@
 
 This project implements a approximation of Pi in several different programming languages.  
 This is done with the [Monte Carloo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method) which roughly places random points on a plane and checks if they are inside or outside of that circle.  
-![Random points on circle](https://upload.wikimedia.org/wikipedia/commons/8/84/Pi_30K.gif | width=100)  
+![Random points on circle](https://upload.wikimedia.org/wikipedia/commons/8/84/Pi_30K.gif = 100x)  
 
 
 An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(16/26)**.
