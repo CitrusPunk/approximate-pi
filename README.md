@@ -11,12 +11,16 @@ An unofficial goal of this project is to have all the letters of the alphabet re
 
 Those implementations are neither comparable nor should they show benchmarks of any programming language the algorithm was implemented with. I try to keep the implementation as simple as possible. The files might not satisfy best practices of the used programming language - improvements suggestions are welcome though. Moreover, it is debatable whether each language used can be called a programming language on its own. 
 
+## To Do
+ - Orc
+ - Emojicode
+
 ## Done
 
 |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
 | **A** |  |  |  | **N** |  |  |  |
-| **B** | [Ballerina](https://ballerina.io/) |  |  | **O** |  |  |  |
+| **B** | [Ballerina](https://ballerina.io/) |  |  | **O** | [Octave](https://octave.org/) |  |  |
 | **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |  | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
 | **D** | [D](https://dlang.org/documentation.html) | [Dart](https://dart.dev/guides) |  | **Q** |  |  |  |
 | **E** |  |  |  | **R** | [R](https://www.r-project.org/) | [Ruby](https://www.ruby-lang.org/) | [Rust](https://www.rust-lang.org/) |
@@ -45,4 +49,4 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **J** |  |  |  | **W** | [Whiley](https://whiley.org/) | [Wolfram](https://www.wolfram.com/language/) | [Wyvern](https://wyvernlang.github.io/) |
 | **K** |  |  |  | **X** | [X10](http://x10-lang.org/documentation/getting-started.html) | [X#](https://www.xsharp.eu/) |  |
 | **L** | [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>) |  |  | **Y** |  |  |  |
-| **M** | [Matlab](https://de.mathworks.com/products/matlab.html) |  |  | **Z** |  |  |  |
+| **M** |  |  |  | **Z** |  |  |  |
