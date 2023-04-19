@@ -1,4 +1,4 @@
-## Run Scratch
+## Run VVVV
 
 vvvv is a visual programming environment that allows users to create interactive multimedia projects. If you've downloaded a .vl file and want to open and run it in vvvv, here's how to do it:
 
