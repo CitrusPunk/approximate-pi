@@ -8,11 +8,10 @@
 open System
 
 let radius = 1.0
-let rnd = new Random()
-let randomFloat = rnd.NextDouble() * 2.0 - radius |> float
-
 let iterations = 10000000
+
 let mutable in_circle = 0
+
 for i in 1..iterations do
     let rnd = new Random()
     let x = rnd.NextDouble() * 2.0 - radius |> float
