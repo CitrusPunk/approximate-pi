@@ -29,7 +29,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **F** | [Fortran](https://wg5-fortran.org/) |  |  | **S** | [Scala](https://scala-lang.org/) | [Scratch](https://scratch.mit.edu/) |  |
 | **G** | [Go](https://go.dev/doc/) |  |  | **T** | [TypeScript](https://www.typescriptlang.org/) |  |  |
 | **H** | [Haxe](https://haxe.org/) |  |  | **U** |  |  |  |
-| **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) |  |  |
+| **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
 | **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** |  |  |  |
 | **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
 | **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) |  | **Y** |  |  |  |
