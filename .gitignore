@@ -1,9 +1,12 @@
 *.exe
 *.out
+*.o
 *.obj
 *.jar
 *.class
 *.icx
+*.ali
+*.exe
 
 /Rust/target
 
