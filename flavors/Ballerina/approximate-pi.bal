@@ -1,13 +1,10 @@
-// NEED:
+// REQUIREMENTS:
 // A Browser
 // USAGE:
 // open https://play.ballerina.io/ and copy/paste this code and execute it
 
 import ballerina/io;
 import ballerina/random;
-
-
-//TODO: add input iteration possibility for users and rerun loop
 
 public function main() {
     int iterations = 100000;
