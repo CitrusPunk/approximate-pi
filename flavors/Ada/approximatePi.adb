@@ -1,7 +1,6 @@
 -- REQUIREMENTS:
 -- Ada compiler - I've used gcc via https://jmeubank.github.io/tdm-gcc/
 -- Any other option should work as well just follow the steps on https://www.getadanow.com/
---
 -- USAGE:
 -- Compile source file via "gcc -c approximatePi.adb"
 -- Bind compiled file via "gnatbind approximatePi"
