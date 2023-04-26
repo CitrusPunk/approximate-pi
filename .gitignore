@@ -8,9 +8,6 @@
 *.ali
 *.exe
 
-/Nim/*
-!/Nim/approximatePi.Nim
-
 /Rust/target
 
 /Haskell
