@@ -7,7 +7,7 @@ This is done with the [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_C
 The implementations are located in flavors/[LANGUAGE_NAME]. The source code of each language contains the requirements and instructions on how to execute the implementation.
 
 
-An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(20/26)**.
+An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(21/26)**.
 
 ## Disclaimer
 
@@ -22,7 +22,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 
 |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
-| **A** | [Ada](https://www.getadanow.com/) |  |  | **N** |  |  |  |
+| **A** | [Ada](https://www.getadanow.com/) |  |  | **N** | [Nim](https://nim-lang.org/) |  |  |
 | **B** | [Ballerina](https://ballerina.io/) |  |  | **O** | [Octave](https://octave.org/) |  |  |
 | **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |  | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
 | **D** | [D](https://dlang.org/documentation.html) | [Dart](https://dart.dev/guides) |  | **Q** |  |  |  |
