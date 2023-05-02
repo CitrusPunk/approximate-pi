@@ -7,7 +7,7 @@ This is done with the [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_C
 The implementations are located in flavors/[LANGUAGE_NAME]. The source code of each language contains the requirements and instructions on how to execute the implementation.
 
 
-An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(21/26)**.
+An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(22/26)**.
 
 ## Disclaimer
 
@@ -31,7 +31,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **G** | [Go](https://go.dev/doc/) |  |  | **T** | [TypeScript](https://www.typescriptlang.org/) |  |  |
 | **H** | [Haxe](https://haxe.org/) |  |  | **U** |  |  |  |
 | **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
-| **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** |  |  |  |
+| **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** | [Wax](https://github.com/LingDong-/wax/tree/main) |  |  |
 | **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
 | **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) |  | **Y** |  |  |  |
 | **M** | [MySQL](https://dev.mysql.com/) |  |  | **Z** | [Zig](https://ziglang.org/) |  |  |
