@@ -33,5 +33,5 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
 | **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** | [Wax](https://github.com/LingDong-/wax/tree/main) |  |  |
 | **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
-| **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) |  | **Y** |  |  |  |
+| **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) | [Lisp](https://lisp-lang.org/) | **Y** |  |  |  |
 | **M** | [MySQL](https://dev.mysql.com/) |  |  | **Z** | [Zig](https://ziglang.org/) |  |  |
