@@ -1,0 +1,27 @@
+;; REQUIREMENTS
+;; Some web browser
+;; USAGE
+;; Go to https://waxc.netlify.app/
+;; Copy paste this code into the editor and hit run
+
+(@include math)
+
+(func dist (param x float) (param y float) (result float)
+	(return (call sqrt (+ (* x x)(* y y) )))
+)
+
+(func main (result int)
+  (let iterations int 1000000)
+  (let in_circle int 0)
+	
+  (for i 0 (< i iterations) 1 (do
+    (let d float (call dist (call random) (call random)))
+	(if (< d 1.0) (then
+		(set in_circle (+ in_circle 1))   
+	))
+  ))
+  (let pi float (* 4.0 (/ (cast in_circle float) iterations)))
+  (print "Pi is approximately: ")
+  (print pi)
+  (return 0)
+)
