@@ -3,6 +3,7 @@
 ;; USAGE
 ;; Go to https://waxc.netlify.app/
 ;; Copy paste this code into the editor and hit run
+;; Official Repo: https://github.com/LingDong-/wax/tree/main
 
 (@include math)
 
