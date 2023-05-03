@@ -22,7 +22,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 
 |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
-| **A** | [Ada](https://www.getadanow.com/) |  |  | **N** | [Nim](https://nim-lang.org/) |  |  |
+| **A** | [Ada](https://www.getadanow.com/) |  |  | **N** | [Nim](https://nim-lang.org/) | [Nial](https://www.nial-array-language.org/) |  |
 | **B** | [Ballerina](https://ballerina.io/) |  |  | **O** | [Octave](https://octave.org/) |  |  |
 | **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |  | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
 | **D** | [D](https://dlang.org/documentation.html) | [Dart](https://dart.dev/guides) |  | **Q** |  |  |  |
