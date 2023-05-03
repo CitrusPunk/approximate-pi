@@ -1,0 +1,15 @@
+ % REQUIREMENTS 
+ % A Nial compiler
+ % USAGE
+ % Download the Nial compiler from https://www.nial-array-language.org/download/
+ % Execute the program via 'nial -defs approximate-pi.ndf'
+
+rnd := read 'Seed between 0.0 and 1.0: ';
+iterations := read 'Amount of iterations: ';
+seed rnd;
+x gets random iterations;
+y gets random iterations;
+distances gets sqrt ((x * x) + (y * y));
+in_circle gets sum(distances <= 1.0);
+pi_approximation gets 4.0 * (in_circle / iterations);
+write pi_approximation;
