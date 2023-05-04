@@ -1,9 +1,10 @@
-// NEED:
+// REQUIREMENTS:
 // Go to https://www.rust-lang.org/learn/get-started
 // Install Cargo
 // USAGE:
 // cd to this directory
 // cargo run
+
 extern crate rand;
 use std::{
     io::{
