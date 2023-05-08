@@ -8,6 +8,7 @@ The implementations are located in flavors/[LANGUAGE_NAME]. The source code of e
 
 
 An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(22/26)**.
+All languages make a total of **36** right now - may we reach 50 some day.
 
 ## Disclaimer
 
