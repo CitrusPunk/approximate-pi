@@ -15,6 +15,7 @@ All languages make a total of **36** right now - may we reach 50 some day.
 Those implementations are neither comparable nor should they show benchmarks of any programming language the algorithm was implemented with. I try to keep the implementation as simple as possible. The files might not satisfy best practices of the used programming language - improvements suggestions are welcome though. Moreover, it is debatable whether each language used can be called a programming language on its own. 
 
 ## To Do
+ - Parallelize Mojo implementation to optiomize functionality and highlight differences to python
  - [Orc](https://orc.csres.utexas.edu/)
  - [Emojicode](https://www.emojicode.org/docs/)
  - [Etoys](http://www.squeakland.org/)
