@@ -1,0 +1,47 @@
+use Random
+seed = 122
+iterations = 10
+
+getRandomFloat: Nat -> [Float]
+getRandomFloat seed = splitmix seed '(List.replicate (iterations*2) (Random.float))
+
+distance : Float -> Float -> Float
+distance x y = sqrt(x*x + y*y)  
+
+recursive.getInCircle : [Float] -> Float
+recursive.getInCircle list = 
+    match list with
+    [first, second] ++ remainder -> distance first second
+    _ -> -1.0
+
+
+-- tailRecursive.getInCircle : [Float] -> Float
+-- tailRecursive.myTotal list =
+--   loop : [Float] -> Float -> Float
+--   loop innerList currentTotal =
+--     match innerList with
+--       []           -> currentTotal
+--       [first, second] ++ remainder -> 
+--         use Float +
+--         loop tail ( floor(distance first second) + currentTotal)
+--   loop list 0.0
+
+tailRecursive.myTotal : [Float] -> Float
+tailRecursive.myTotal list =
+  loop : [Float] -> Float -> Float
+  loop innerList currentTotal =
+    match innerList with
+      []           -> currentTotal
+      [first, second] +: tail -> 
+        use Float +
+        loop tail ( floor(distance first second) + currentTotal)
+      head +: tail ->
+        use Float +
+        loop tail (head + currentTotal)
+  loop list 0.0
+
+values =  getRandomFloat seed
+> recursive.getInCircle values
+> tailRecursive.myTotal values
+> values
+> distance 2.1 2.1
