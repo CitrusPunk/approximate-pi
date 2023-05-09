@@ -17,6 +17,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 
 ## To Do
  - Parallelize Mojo implementation to optiomize functionality and highlight differences to python
+ - [Unison](https://www.unison-lang.org/)
  - [Orc](https://orc.csres.utexas.edu/)
  - [Emojicode](https://www.emojicode.org/docs/)
  - [Etoys](http://www.squeakland.org/)
