@@ -9,7 +9,7 @@ The implementations are located in flavors/[LANGUAGE_NAME]. The source code of e
 
 
 An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(22/26)**.
-All languages make a total of **36** right now - may we reach 50 some day.
+All languages make a total of **37** right now - may we reach 50 some day.
 
 ## Disclaimer
 
@@ -34,7 +34,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **F** | [Fortran](https://wg5-fortran.org/) | [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/) |  | **S** | [Scala](https://scala-lang.org/) | [Scratch](https://scratch.mit.edu/) |  |
 | **G** | [Go](https://go.dev/doc/) |  |  | **T** | [TypeScript](https://www.typescriptlang.org/) |  |  |
 | **H** | [Haxe](https://haxe.org/) |  |  | **U** |  |  |  |
-| **I** | [Icon](https://www2.cs.arizona.edu/icon/) |  |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
+| **I** | [Icon](https://www2.cs.arizona.edu/icon/) | [Io](https://iolanguage.org/index.html) |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
 | **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** | [Wax](https://github.com/LingDong-/wax/tree/main) |  |  |
 | **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
 | **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) | [Lisp](https://lisp-lang.org/) | **Y** |  |  |  |
