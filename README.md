@@ -8,8 +8,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 The implementations are located in flavors/[LANGUAGE_NAME]. The source code of each language contains the requirements and instructions on how to execute the implementation.
 
 
-An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(23/26)**.
-All languages make a total of **38** right now - may we reach 50 some day.
+An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(24/26)**.
+All languages make a total of **39** right now - may we reach 50 some day.
 
 ## Disclaimer
 
@@ -36,5 +36,5 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **I** | [Icon](https://www2.cs.arizona.edu/icon/) | [Io](https://iolanguage.org/index.html) |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
 | **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** | [Wax](https://github.com/LingDong-/wax/tree/main) |  |  |
 | **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
-| **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) | [Lisp](https://lisp-lang.org/) | **Y** |  |  |  |
+| **L** | [LOLCODE](https://esolangs.org/wiki/LOLCODE) | [Lua](https://www.lua.org/docs.html) | [Lisp](https://lisp-lang.org/) | **Y** | [YorLang](https://anoniscoding.github.io/yorlang/) |  |  |
 | **M** | [MySQL](https://dev.mysql.com/) |  |  | **Z** | [Zig](https://ziglang.org/) |  |  |
