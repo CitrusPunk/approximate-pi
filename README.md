@@ -8,8 +8,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 The implementations are located in flavors/[LANGUAGE_NAME]. The source code of each language contains the requirements and instructions on how to execute the implementation.
 
 
-An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(22/26)**.
-All languages make a total of **37** right now - may we reach 50 some day.
+An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(23/26)**.
+All languages make a total of **38** right now - may we reach 50 some day.
 
 ## Disclaimer
 
@@ -33,7 +33,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 | **E** | [Euphoria](https://openeuphoria.org/index.wc) |  |  | **R** | [R](https://www.r-project.org/) | [Ruby](https://www.ruby-lang.org/) | [Rust](https://www.rust-lang.org/) |
 | **F** | [Fortran](https://wg5-fortran.org/) | [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/) |  | **S** | [Scala](https://scala-lang.org/) | [Scratch](https://scratch.mit.edu/) |  |
 | **G** | [Go](https://go.dev/doc/) |  |  | **T** | [TypeScript](https://www.typescriptlang.org/) |  |  |
-| **H** | [Haxe](https://haxe.org/) |  |  | **U** |  |  |  |
+| **H** | [Haxe](https://haxe.org/) |  |  | **U** | [Unison](https://www.unison-lang.org/) |  |  |
 | **I** | [Icon](https://www2.cs.arizona.edu/icon/) | [Io](https://iolanguage.org/index.html) |  | **V** | [Visual Basic](https://docs.microsoft.com/de-de/dotnet/visual-basic/) | [VVVV](https://visualprogramming.net/) |  |
 | **J** | [Java](https://docs.oracle.com/en/java/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | [Julia](https://docs.julialang.org/en/v1/) | **W** | [Wax](https://github.com/LingDong-/wax/tree/main) |  |  |
 | **K** | [Kotlin](https://kotlinlang.org/docs/home.html) |  |  | **X** |  |  |  |
