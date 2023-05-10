@@ -1,4 +1,4 @@
-// NEED:
+// REQUIREMENTS:
 // Java installed
 // USAGE:
 // open terminal in this directory and first type "javac ./ApproximatePi.java" to compile
