@@ -1,5 +1,5 @@
 # REQUIREMENTS
-# node and yorl installed via 'npm install -g yorlang
+# node and yorl installed via 'npm install -g yorlang'
 # USAGE
 # Open terminal in this directory
 # Run file via 'yorl approximate-pi.yl'
