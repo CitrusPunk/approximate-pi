@@ -1,0 +1,34 @@
+# REQUIREMENTS
+# node and yorl installed via 'npm install -g yorlang
+# USAGE
+# Open terminal in this directory
+# Run file via 'yorl approximate-pi.yl'
+# IMPORTANT
+# The yorlang interpreter can just interpret LF files care that your file isn't formatted to CRLF
+
+jẹ́kí iterations = 1000000;
+jẹ́kí inCircle = 0;
+
+# squareroot function because there is no math library
+iṣẹ́ sqrt(x){
+    jẹ́kí s = 1;
+    jẹ́kí s=((x/2)+x/(x/2)) / 2;
+        fún ( jẹ́kí i = 0 ; i < 5; jẹ́kí i = i + 1 )   {
+        jẹ́kí s=(s+x/s)/2;
+    }
+    padà s;
+}
+
+jẹ́kí i = 0;
+fún ( jẹ́kí i = 0 ; i < iterations; jẹ́kí i = i + 1 )   {
+    jẹ́kí x = yipo();
+    jẹ́kí y = yipo();
+    jẹ́kí distance = sqrt(x*x + y*y);
+    ṣé ( distance < 1 )  {
+        jẹ́kí inCircle = inCircle + 1;
+    }
+}
+
+jẹ́kí pi = 4 * inCircle / iterations;
+sọpé inCircle;
+sọpé pi;
