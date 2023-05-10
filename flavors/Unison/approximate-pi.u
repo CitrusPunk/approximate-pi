@@ -1,47 +1,31 @@
-use Random
-seed = 122
-iterations = 10
+-- REQUIREMENTS:
+-- Get ucm via https://www.unison-lang.org/learn/quickstart/
+-- USAGE:
+-- Start ucm in this directory so it will watch file changes to .u-files  
+-- [CTRL] + [S] or "Save file" to let ucm run this file
 
+use Random
+seed = 123456789
+iterations = 100000 -- care about iterations because the caluclations are recursive
+
+amountOfValues = iterations * 2
 getRandomFloat: Nat -> [Float]
-getRandomFloat seed = splitmix seed '(List.replicate (iterations*2) (Random.float))
+getRandomFloat seed = lcg seed '(List.replicate amountOfValues Random.float)
 
 distance : Float -> Float -> Float
-distance x y = sqrt(x*x + y*y)  
-
-recursive.getInCircle : [Float] -> Float
-recursive.getInCircle list = 
-    match list with
-    [first, second] ++ remainder -> distance first second
-    _ -> -1.0
+distance x y =
+  sqrt ((x*x) + (y*y))   
 
 
--- tailRecursive.getInCircle : [Float] -> Float
--- tailRecursive.myTotal list =
---   loop : [Float] -> Float -> Float
---   loop innerList currentTotal =
---     match innerList with
---       []           -> currentTotal
---       [first, second] ++ remainder -> 
---         use Float +
---         loop tail ( floor(distance first second) + currentTotal)
---   loop list 0.0
+getInCircle : [Float] -> Float
+getInCircle = cases
+  [x, y] ++ rest -> 
+    if distance x y < 1.0 then
+     getInCircle rest + 1.0
+    else
+     getInCircle rest
+  _               -> 0.0
 
-tailRecursive.myTotal : [Float] -> Float
-tailRecursive.myTotal list =
-  loop : [Float] -> Float -> Float
-  loop innerList currentTotal =
-    match innerList with
-      []           -> currentTotal
-      [first, second] +: tail -> 
-        use Float +
-        loop tail ( floor(distance first second) + currentTotal)
-      head +: tail ->
-        use Float +
-        loop tail (head + currentTotal)
-  loop list 0.0
-
-values =  getRandomFloat seed
-> recursive.getInCircle values
-> tailRecursive.myTotal values
-> values
-> distance 2.1 2.1
+x =  getRandomFloat seed
+inCircle =  getInCircle x
+>pi = 4.0 * inCircle / toFloat iterations
