@@ -9,7 +9,7 @@ The implementations are located in flavors/[LANGUAGE_NAME]. The source code of e
 
 
 An unofficial goal of this project is to have all the letters of the alphabet represented in the initial letters of the [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages#E) **(24/26)**.
-All languages make a total of **39** right now - may we reach 50 some day.
+All languages make a total of **40** right now - may we reach 50 some day.
 
 ## Disclaimer
 
@@ -27,7 +27,7 @@ Those implementations are neither comparable nor should they show benchmarks of 
 |---|---|---|---|---|---|---|---|
 | **A** | [Ada](https://www.getadanow.com/) |  |  | **N** | [Nim](https://nim-lang.org/) | [Nial](https://www.nial-array-language.org/) |  |
 | **B** | [Ballerina](https://ballerina.io/) |  |  | **O** | [Octave](https://octave.org/) |  |  |
-| **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |  | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
+| **C** | [C++](https://cplusplus.com/doc/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [Crystal](https://crystal-lang.org/) | **P** | [PHP](https://www.php.net/) | [Perl](https://www.perl.org/docs.html) | [Python](https://www.python.org/) |
 | **D** | [D](https://dlang.org/documentation.html) | [Dart](https://dart.dev/guides) |  | **Q** |  |  |  |
 | **E** | [Euphoria](https://openeuphoria.org/index.wc) |  |  | **R** | [R](https://www.r-project.org/) | [Ruby](https://www.ruby-lang.org/) | [Rust](https://www.rust-lang.org/) |
 | **F** | [Fortran](https://wg5-fortran.org/) | [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/) |  | **S** | [Scala](https://scala-lang.org/) | [Scratch](https://scratch.mit.edu/) |  |
